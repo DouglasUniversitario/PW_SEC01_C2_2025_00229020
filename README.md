@@ -1,1 +1,1 @@
-# PW_SEC01_C2_2025_00229020
+Me gusta el background blanco

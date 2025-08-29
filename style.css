@@ -1,0 +1,61 @@
+h1#title {
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    font-family: serif;
+}
+
+h2 {
+    font-family: cursive;
+    font-style: italic;
+}
+
+div#btn {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+div#main-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+div#left-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+    flex-shrink: 1;
+}
+
+div#specification-part {
+    flex-grow: 1;
+}
+
+div#image {
+    flex-grow: 4;
+}
+
+div#right-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 10px;
+    flex-shrink: 3;
+}
+
+div#description {
+    color: black;
+}
+
+div#content-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 10px;
+}
